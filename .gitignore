@@ -1,0 +1,8 @@
+﻿# 依赖和缓存，不要进版本库
+node_modules/
+.venv/
+__pycache__/
+
+# 日志和临时文件
+*.log
+temp/
